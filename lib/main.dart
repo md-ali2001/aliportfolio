@@ -120,7 +120,7 @@ class _MyHomePageState extends State<MyHomePage> {
                       children:
                       [
                         Text(""),
-                        Text("ppppp",style:TextStyle(fontSize: 30,color:Colors.black,fontWeight: FontWeight.bold),),
+                        Text("ppppplklk",style:TextStyle(fontSize: 30,color:Colors.black,fontWeight: FontWeight.bold),),
 
                         Row(
                             children:[ Image.asset('images/flutter.png',height:100,width:100),
